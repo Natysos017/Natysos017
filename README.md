@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil🖤
 
-<!--
-**Natysos017/Natysos017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nathalya sousa
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagens JavaScript
+- Ultilizo esse espaço para minha organização r compartilhar meus projetos
+- 
+- ### Você entrará em contatos comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ sousanayy235@gmail.com
+
+ @NatySousa-sm7tq
+
+ ![]()
+ https://media.tenor.com/hziJQjSYmXv.gif
